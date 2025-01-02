@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ExpenseMng</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="group">
+        <item>Eat</item>
+        <item>Game</item>
+        <item>School</item>
+        <item>Shopping</item>
+        <item>Travel</item>
+        <item>Health</item>
+        <item>Fitness</item>
+        <item>Entertainment</item>
+        <item>Transportation</item>
+        <item>Work</item>
+        <item>Family</item>
+        <item>Friends</item>
+        <item>Books</item>
+        <item>Music</item>
+        <item>Movies</item>
+        <item>Technology</item>
+        <item>Food and Drinks</item>
+        <item>Events</item>
+        <item>Hobbies</item>
+        <item>Charity</item>
+        <item>Education</item>
+        <item>Night Out</item>
+    </string-array>
+
+</resources>
