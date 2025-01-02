@@ -28,8 +28,8 @@ A simple and effective Android application to manage and track personal expenses
 
 1. **Clone the Repository**
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/Kayne1310/ExpenseManagement.git
+
 
 2. **Open the Project in Android Studio**
 
