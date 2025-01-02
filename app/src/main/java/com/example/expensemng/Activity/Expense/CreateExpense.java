@@ -2,6 +2,7 @@ package com.example.expensemng.Activity.Expense;
 
 import android.app.DatePickerDialog;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
@@ -71,9 +72,10 @@ public class CreateExpense extends AppCompatActivity {
                 DatePickerDialog datePickerDialog = new DatePickerDialog(CreateExpense.this, new DatePickerDialog.OnDateSetListener() {
                     @Override
                     public void onDateSet(DatePicker view, int year, int month, int dayOfMonth) {
-                        txtDate.setText(String.format("%d/%d/%d", dayOfMonth, month, year));
+                        Log.d("DatePicker", "Year: " + year + ", Month: " + month + ", Day: " + dayOfMonth);
+                        txtDate.setText(String.format("%d/%d/%d", dayOfMonth, month+1, year));
                     }
-                }, year, month + 1, day);
+                }, year, month, day);
                 datePickerDialog.show();
             }
         });

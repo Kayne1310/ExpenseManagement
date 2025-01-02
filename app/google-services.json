@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082682577103",
+    "project_id": "expensemng-ce3dd",
+    "storage_bucket": "expensemng-ce3dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082682577103:android:dae802ac4c5bfdee1327ba",
+        "android_client_info": {
+          "package_name": "com.example.expensemng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr3NrqIYBkB9G4OuO4WtU_-435Sif594k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -83,9 +83,9 @@ public class CreateBudget extends AppCompatActivity {
                 DatePickerDialog datePickerDialog = new DatePickerDialog(CreateBudget.this, new DatePickerDialog.OnDateSetListener() {
                     @Override
                     public void onDateSet(DatePicker view, int year, int month, int dayOfMonth) {
-                        txtDate.setText(String.format("%d/%d/%d", dayOfMonth, month, year));
+                        txtDate.setText(String.format("%d/%d/%d", dayOfMonth, month+1, year));
                     }
-                }, year, month + 1, day);
+                }, year, month, day);
                 datePickerDialog.show();
             }
         });

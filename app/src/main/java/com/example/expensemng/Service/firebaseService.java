@@ -175,7 +175,11 @@ public class firebaseService implements IgetInfor {
             }
         });
 
+
     }
+
+
+
 
 
 
