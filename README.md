@@ -1,23 +1,10 @@
 # Expense Management App
-<p align="center>
-   </p>
-![image](https://github.com/user-attachments/assets/50520dec-7763-4975-8c65-071062fcaf49)
-<p align="center>
-![image](https://github.com/user-attachments/assets/b643acf2-9f40-400a-95fa-6a5ebc02f293)
-   
-   </p>
 
-<p align="center>
 
-![image](https://github.com/user-attachments/assets/e1e4df83-07bf-4c9f-966c-cc0eca93e8a5)
-   </p>
-   <p align="center>
-![image](https://github.com/user-attachments/assets/31e27f7d-259d-4957-aa85-46657f71bfe3)
-   </p>
-   <p align="center>
-![image](https://github.com/user-attachments/assets/bd910d8d-c631-4327-9861-a848d1cfb532)
-   </p>
 
+<p ="center">
+      <img src="https://github.com/user-attachments/assets/b1f36a3b-a6ac-44bc-98c5-1f8cff928703)
+p" />
 
 
 
