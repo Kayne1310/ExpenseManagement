@@ -58,5 +58,6 @@ A simple and effective Android application to manage and track personal expenses
 - **Add Expenses**: Tap the **Add Expense** button to log a new expense.
 - **View Expense Reports**: Go to **Reports** to see graphical summaries of your spending.
 - **Set Budgets**: Under **Settings**, you can define monthly or custom budgets.
+- **Login ,Change Pasword,Register,Forgot Password** 
 
   
